@@ -145,7 +145,7 @@ body{
 }
 .progress-card{
     padding: 12% 10% 10% 15%;
-    background-color: #fff;
+    background-color: #2efc1f;
     text-align: center;
     border-radius: 10%;
 }
@@ -158,7 +158,7 @@ body{
     height: 130px;
     width: 130px;
     border-radius: 50%;
-    background: conic-gradient(#7d2ae8 3.6deg, #ededed 0deg);
+    background: conic-gradient(#7d2ae8 3.6deg, #c66282 0deg);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -169,7 +169,7 @@ body{
     height: 120px;
     width: 120px;
     border-radius: 50%;
-    background-color: #fff;
+    background-color: #2efc1f;
 }
 .progress-value{
     position: relative;
@@ -211,7 +211,7 @@ body{
   margin: 0 25px;
 }
 #myBtnContainer button:hover{
-    color: #fca61f;
+    color: #1ffc23;
 }
 
 #myBtnContainer button:focus{
@@ -262,7 +262,7 @@ body{
     border-radius: 5%;
 }
 .nav-bg{
-    background-color: #fff;
+    background-color: #fc1fd0;
 }
 
 .blog .blogpost small{
@@ -380,7 +380,7 @@ footer .link-group a:hover{
     right: 40px;
     display: none;
     font-size: 1.4rem;
-    background-color: #fca61f;
+    background-color: #ff0090;
     color: #fff;
     animation: pulse 3s infinite;
 }
