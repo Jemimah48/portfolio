@@ -6,20 +6,20 @@ body{
 /* styling menu icon */
 .nav-menu{
     border: none;
-    background-color: #fff;
+    background-color: #ff0090;
     font-size: 1.5rem;
-    color: #fca61f;
+    color: #2efc1f;
 }
 /* styling navbar links  */
 .navbar-nav a{
-    color: black;
+    color: #bad21e;
     position: relative;
 }
 .navbar-nav a:hover{
-    color: #fca61f;
+    color: #fc1fd0;
 }
 .navbar-nav a:after {    
-    background: none repeat scroll 0 0 transparent;
+    background: blueviolet;
     bottom: 0;
     content: "";
     display: block;
@@ -38,13 +38,13 @@ body{
   /* styling contact btn  */
 .c-btn{
     border: none;
-    background: #fca61f;
+    background: #fc1fd0;
     color: #fff;
     font-size: 1.2rem;
 }
 /* styling home section starts */
 .home{
-    background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 100%);
+    background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgb(30, 93, 210) 100%);
     padding: 30px 0px 10px 0px;
 }
 .home h2{
@@ -70,7 +70,7 @@ body{
 .link{
     text-decoration: none;
     font-size: 1.2rem;
-    color: #fca61f;
+    color: #1f65fc;
     position: relative;
 }
 .link::after{
